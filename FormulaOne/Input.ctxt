@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Input
+comment1.params=
+comment1.target=Input()
+comment1.text=\ \r\n\ The\ default\ constructor\ of\ the\ input\ class\r\n
+comment2.params=displayMessage
+comment2.target=int\ acceptInteger(java.lang.String)
+comment2.text=\ \r\n\ The\ method\ to\ accept\ an\ integer\ from\ the\ user.\r\n\ @param\ displayMessage\:\ A\ string\ message\ which\ is\ to\ be\ displayed\ to\ the\ user.\r\n
+numComments=3

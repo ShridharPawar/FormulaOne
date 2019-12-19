@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=RNG
+comment1.params=
+comment1.target=RNG()
+comment1.text=\ \r\n\ The\ default\ constructor\ of\ the\ RNG\ class\r\n
+comment2.params=newMinimumValue\ newMaximumValue
+comment2.target=RNG(int,\ int)
+comment2.text=\ \r\n\ The\ alternate\ constructor\ of\ the\ RNG\ class\r\n\ @param\ newMinimumValue\:\ minimum\ limit\ of\ the\ random\ number\r\n\ @param\ newMaximumValue\:\ maximum\ limit\ of\ the\ random\ number\r\n
+comment3.params=
+comment3.target=int\ getMinimumValue()
+comment3.text=\ \r\n\ The\ accessor\ method\ to\ get\ the\ minimum\ value\r\n
+comment4.params=
+comment4.target=int\ getMaximumValue()
+comment4.text=\ \r\n\ The\ accessor\ method\ to\ get\ the\ maximum\ value\r\n
+comment5.params=newMinimumValue
+comment5.target=void\ setMinimumValue(int)
+comment5.text=\ \r\n\ The\ mutator\ method\ to\ set\ the\ minimum\ value\r\n\ @param\ newMinimumValue\:\ minimum\ limit\ to\ be\ set\r\n
+comment6.params=newMaximumValue
+comment6.target=void\ setMaximumValue(int)
+comment6.text=\ \r\n\ The\ mutator\ method\ to\ set\ the\ maximum\ value\r\n\ @param\ newMaximumValue\:\ maximum\ limit\ to\ be\ set\r\n
+comment7.params=minimum\ maximum
+comment7.target=int\ generateRandomNumber(int,\ int)
+comment7.text=\ \r\n\ The\ method\ to\ generate\ the\ random\ number\r\n\ @param\ minimum\:\ minimum\ range\ of\ the\ random\ number\r\n\ @param\ maximum\:\ maximum\ range\ of\ the\ random\ number\r\n
+numComments=8

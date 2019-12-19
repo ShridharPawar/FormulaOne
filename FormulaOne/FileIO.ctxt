@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FileIO
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\ \r\n\ The\ default\ constructor\ of\ the\ FileIO\ class\r\n
+comment2.params=newFileName
+comment2.target=FileIO(java.lang.String)
+comment2.text=\ \r\n\ The\ default\ constructor\ of\ the\ FileIO\ class\r\n\ @param\ newFileName\:\ The\ name\ of\ the\ file\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment3.text=\ \r\n\ The\ accessor\ method\ to\ get\ the\ name\ of\ a\ file\r\n
+comment4.params=newFileName
+comment4.target=void\ setFileName(java.lang.String)
+comment4.text=\ \r\n\ The\ mutator\ method\ to\ set\ name\ to\ a\ file\r\n\ @param\ newFileName\:\ The\ name\ of\ the\ new\ file\ to\ be\ set\r\n
+comment5.params=response\ fileName
+comment5.target=java.util.ArrayList\ readFile(java.util.ArrayList,\ java.lang.String)
+comment5.text=\ \r\n\ The\ method\ to\ read\ contents\ from\ a\ file\r\n\ @param\ response\:\ A\ List\ of\ Strings\r\n\ @param\ fileName\:\ The\ name\ of\ the\ file\ from\ which\ the\ content\ is\ to\ read.\r\n
+comment6.params=details\ fileName
+comment6.target=void\ writeToTheFile(java.lang.String,\ java.lang.String)
+comment6.text=\ \r\n\ The\ method\ to\ write\ contents\ to\ a\ file\r\n\ @param\ details\:\ A\ string\ having\ details\ of\ all\ the\ drivers.\r\n\ @param\ fileName\:\ The\ name\ of\ the\ file\ to\ which\ the\ data\ is\ to\ be\ written\ to.\r\n
+numComments=7
