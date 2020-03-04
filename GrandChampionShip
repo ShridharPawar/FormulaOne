@@ -1,0 +1,5 @@
+•	Created a text-based game developed in Java using Bluej IDE.
+•	Workflow of the game:
+-	The game involved reading of a file containing details of drivers and their attributes such as ranking, name, skills etc. One other file contained details of the venues and their attributes such as the number of laps, the probability of rain, average time needed to complete a lap.
+-	The drivers would compete against each other on different venues where there are random chances of raining and each driver had a probable chance of changing the tyres in case of rain which would help the driver drive easily in the race.
+-	After each race, average time of each driver is calculated and the driver who has completed every race in a lesser time wins the championship.
